@@ -1,16 +1,14 @@
-# minimal_shop_app
+# Minimal Shop App
+## building some of fundemental requirement
+- home screen to show items
+- cart to show item that has been selected
 
-A new Flutter project.
 
-## Getting Started
+## App UI
+![app image](assets/screens/screen1.png)
 
-This project is a starting point for a Flutter application.
+![app image](assets/screens/screen2.png)
 
-A few resources to get you started if this is your first Flutter project:
+![app image](assets/screens/screen3.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![app image](assets/screens/screen4.png)
